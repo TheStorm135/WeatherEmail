@@ -43,4 +43,4 @@ def send_email(subject, message, to):
             print(e)
 
 
-send_email("hello", "HII", "wolf1127r2d2@gmail.com")
+send_email("hello", "HII", "email@gmail.com")
